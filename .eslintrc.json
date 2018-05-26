@@ -1,0 +1,13 @@
+{
+  "env": {
+    "jest": true
+  },
+  "parser": "babel-eslint",
+  "extends": "airbnb",
+  "plugins": ["react", "jsx-a11y", "import"],
+  "rules": {
+    "react/jsx-filename-extension": ["error", { "extensions": [".js"] }],
+    "quotes": ["error", "single"],
+    "no-use-before-define": ["error", { "variables": false }]
+  }
+}
