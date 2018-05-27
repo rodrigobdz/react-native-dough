@@ -6,7 +6,11 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-React Native HelloWorld app with linter configuration optimized for VSCode. Batteries included.
+React Native HelloWorld app with linter configuration optimized for VSCode.
+
+Malleable. Just like dough.
+
+![Dough](assets/dough.jpg)
 
 What’s in the box:
 
