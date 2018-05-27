@@ -19,7 +19,7 @@ What’s in the box:
 * ESLint
 * Prettier
 
-For Sublime Text install the corresponding packages listed iyn the [setup guide](docs/SETUP.md).
+For Sublime Text install the corresponding packages listed in the [setup guide](docs/SETUP.md).
 
 ## Prerequisites
 
