@@ -55,6 +55,10 @@ $ react-native run-android
 
 If you encounter any problems, please create a [GitHub Issue](https://github.com/rodrigobdz/react-native-dough/issues).
 
+## Credits
+
+Image taken from [ABSFreePic](http://absfreepic.com/free-photos/download/a-woman-kneading-the-dough-4032x2688_54470.html).
+
 ## License
 
 [MIT](LICENSE)
