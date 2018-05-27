@@ -1,14 +1,21 @@
 # React Native Dough
 
+[![React Native](https://img.shields.io/badge/React--Native-0.55.4-blue.svg)](https://facebook.github.io/react-native/)
+[![Flow](https://img.shields.io/badge/Flow-0.67.1-blue.svg)](https://facebook.github.io/react-native/)
+[![ESLint](https://img.shields.io/badge/ESLint-4.19.1-blue.svg)](https://facebook.github.io/react-native/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 React Native HelloWorld app with linter configuration optimized for VSCode. Batteries included.
 
 What’s in the box:
 
+* React Native
 * Flow
 * ESLint
 * Prettier
 
-For Sublime Text install the corresponding packages listed in the [setup guide](docs/SETUP.md).
+For Sublime Text install the corresponding packages listed iyn the [setup guide](docs/SETUP.md).
 
 ## Prerequisites
 
