@@ -104,7 +104,7 @@
 
     Add the following workspace settings:
 
-    ```json
+    ```javascript
     {
       // Format a file on save. A formatter must be available, the file must not be auto-saved, and editor must not be shutting down.
 
