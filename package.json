@@ -5,6 +5,7 @@
   "scripts": {
     "start": "node node_modules/react-native/local-cli/cli.js start",
     "test": "jest",
+    "lint": "prettier-eslint --write ./*.js ./*.json",
     "flow": "flow",
     "flow-stop": "flow stop"
   },
@@ -27,6 +28,7 @@
     "flow-bin": "^0.67.1",
     "jest": "23.0.0",
     "prettier-eslint": "^8.8.1",
+    "prettier-eslint-cli": "^4.7.1",
     "react-test-renderer": "16.3.1"
   },
   "jest": {
