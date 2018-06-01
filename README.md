@@ -14,10 +14,10 @@ Malleable. Just like dough.
 
 What’s in the box:
 
-* React Native
-* Flow
-* ESLint
-* Prettier
+* [React Native](https://facebook.github.io/react-native/)
+* [Flow](https://flow.org/)
+* [ESLint](https://eslint.org/)
+* [Prettier](https://prettier.io/)
 
 For Sublime Text install the corresponding packages listed in the [setup guide](docs/SETUP.md).
 
