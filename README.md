@@ -61,6 +61,4 @@ Image taken from [ABSFreePic](http://absfreepic.com/free-photos/download/a-woman
 
 ## License
 
-[MIT](LICENSE)
-
-Copyright (c) 2018 Rodrigo Bermúdez Schettino.
+[MIT](LICENSE) © [rodrigobdz](https://rodrigobdz.github.io/).
